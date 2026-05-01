@@ -1,4 +1,3 @@
 # Predicci-n-de-carga-operativa-
 
-Autor
-Salvador Hernandez Juarez
+Preprocesamiento de datos y entrenamiento de modelos predictivos para estimar comportamiento futuro
